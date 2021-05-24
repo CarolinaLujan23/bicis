@@ -30,6 +30,6 @@ class Deposito {
 	}
 	
 	method bicisCompanieras(unaBici) {
-		return unaBici.marca() && unaBici.largo().abs(0 - 10) 
+		// return unaBici.marca() && unaBici.largo().abs(0 - 10) ??? 
 	}
 }
