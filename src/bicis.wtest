@@ -1,0 +1,8 @@
+import bicis.*
+
+
+test "bicis" {
+
+	assert.that(true)
+
+}
